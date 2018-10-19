@@ -1,0 +1,8 @@
+dn cn:Pere Pou,ou=usuaris,dc=edt,dc=org
+changetype: modify
+add: mail
+mail: 02@aa
+-
+replace: phone
+phone: 77777777777
+
